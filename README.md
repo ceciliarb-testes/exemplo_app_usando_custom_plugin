@@ -1,29 +1,10 @@
-# plugin_teste
+# exemplo_app_usando_custom_plugin
 
 ## Project setup
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
+git clone https://github.com/ceciliarb-testes/exemplo_app_usando_custom_plugin.git
+cd exemplo_app_usando_custom_plugin
+npm i
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
