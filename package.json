@@ -1,7 +1,6 @@
 {
-  "name": "plugin_teste",
-  "version": "0.1.0",
-  "private": true,
+  "name": "plugin_teste_app",
+  "version": "2.0.0",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -9,6 +8,7 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
+    "plugin_teste_2": "^2.0.1",
     "vue": "^2.6.10"
   },
   "devDependencies": {
